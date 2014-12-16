@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import csv
+import csv 
 
 repeat_num = 10
 
